@@ -347,7 +347,7 @@ This project is licensed under the MIT License.
 
 # 👨‍💻 Developer
 
-**Abhishek Kumar**
+**Abhishek Kumar Kushwaha**
 
 - GitHub: https://github.com/abhishek4712ak
 
